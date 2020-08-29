@@ -9,13 +9,14 @@ function App() {
 		//BEM
 
 		<div className="app">
-			<h1>Airbnb Clone </h1>
 			<Home />
 			<Header />
-			<Banner /> {/* Search */}
+			<Banner />
 			{/* Cards */}
 			{/* Footer */}
 			{/* Search Page */}
+			{/*Header #2 */}
+
 			{/* ... */}
 		</div>
 	);

@@ -5,7 +5,7 @@ import React from "react";
 import "./Home.css";
 
 function Home() {
-	return <div className="home">Home Component</div>;
+	return <div className="home">{/*homecomp */}</div>;
 }
 
 export default Home;
