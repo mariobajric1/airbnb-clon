@@ -2,7 +2,6 @@ import React from "react";
 import "./App.css";
 import Home from "./pages/Home";
 import Header from "./components/header";
-import Banner from "./components/banner";
 
 function App() {
 	return (
