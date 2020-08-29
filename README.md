@@ -1,4 +1,21 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+<h1>Airbnb-Clone!</h1>
+**git commands to get started
+
+<h2>git clone repo</h2>
+<h2>npm install</h2>
+<h2>npm start</h2>
+
+<h2>http://localhost:3000/</h2>
+
+
+
+
+
+
+
+
+
 
 ## Available Scripts
 
