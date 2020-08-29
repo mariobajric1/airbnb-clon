@@ -9,9 +9,8 @@ function App() {
 		//BEM
 
 		<div className="app">
-			<Home />
 			<Header />
-			<Banner />
+			<Home />
 			{/* Cards */}
 			{/* Footer */}
 			{/* Search Page */}
