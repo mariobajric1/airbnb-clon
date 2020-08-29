@@ -1,18 +1,11 @@
 
-<h1>Airbnb-Clone!</h1>
+<h2>Airbnb-Clone!</h2>
 **git commands to get started
 
-<h2>git clone repo</h2>
-<h2>npm install</h2>
-<h2>npm start</h2>
-
-<h2>http://localhost:3000/</h2>
-
-
-
-
-
-
+<h3>git clone https://github.com/mariobajric1/airbnb-clone.git</h3>
+<h3>npm install</h3>
+<h3>npm start</h3>
+<h3>run: http://localhost:3000/ in browser</h3>
 
 
 
