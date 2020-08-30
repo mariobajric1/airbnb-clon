@@ -2,8 +2,11 @@ import React, { useState } from "react";
 import "./banner.css";
 import Button from "@material-ui/core/Button";
 import Search from "./Search";
+import { useHistory } from "react-router-dom";
 
 function banner() {
+	// eslint-disable-next-line react-hooks/rules-of-hooks
+	const history = useHistory();
 	// eslint-disable-next-line react-hooks/rules-of-hooks
 	const [showSearch, setShowSearch] = useState(false);
 	return (
@@ -23,7 +26,9 @@ function banner() {
 				<h5>
 					Plan a different kind of getaway to uncover the hidden gems near you.
 				</h5>
-				<Button variant="outlined">Explore Nearby</Button>
+				<Button onClick={() => history.push("/search")} variant="outlined">
+					Explore Nearby
+				</Button>
 			</div>
 		</div>
 	);
